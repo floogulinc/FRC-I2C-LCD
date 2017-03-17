@@ -3,6 +3,8 @@ package com.floogulinc.frc.util;
 import edu.wpi.first.wpilibj.I2C;
 import edu.wpi.first.wpilibj.I2C.Port;
 
+// Version 1.0.0
+
 public class I2CLCD{
 
     /* **********************************************************
